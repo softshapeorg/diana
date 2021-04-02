@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:softshapeorg/diana-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:softshapeorg/diana-frontend.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:softshapeorg/diana-mobile.git
